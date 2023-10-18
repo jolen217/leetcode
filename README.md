@@ -2,6 +2,10 @@
 LeetCode
 ========
 
+### Link
+
+[Link](https://github.com/jolen217/leetcode)
+
 ### LeetCode Algorithm
 
 (Notes: "🔒" means you need to buy a book from Leetcode)
